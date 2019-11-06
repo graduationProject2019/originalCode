@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Health Mate</string>
+    <string name="set_underline">
+        <u></u>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_feeding">식단확인</string>
+    <string name="title_history">기록확인</string>
+    <string name="title_calculator">식단계산</string>
+    <string name="title_community">커뮤니티</string>
+</resources>

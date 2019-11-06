@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="식단확인" android:id="@+id/navi_plan" app:showAsAction="ifRoom"
+          android:icon="@drawable/meatbowl_logo" android:enabled="true" android:checked="true"/>
+    <item android:title="식단계산" android:id="@+id/navi_calculate" app:showAsAction="ifRoom" android:enabled="true"
+          android:icon="@drawable/img_calculator"/>
+    <item android:title="커뮤니티" android:id="@+id/navi_community" app:showAsAction="ifRoom"
+          android:enabled="true"
+          android:icon="@drawable/img_community" android:checked="true"
+    />
+</menu>
